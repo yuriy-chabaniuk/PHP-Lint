@@ -7,4 +7,4 @@ else
   DIR_TO_SCAN="$1"
 fi
 
-phplint ./accelerator
+phplint $DIR_TO_SCAN
