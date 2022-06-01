@@ -9,4 +9,4 @@ fi
 
 echo "Running: phplint $DIR_TO_SCAN"
 
-phplint "ezcollege"
+phplint
